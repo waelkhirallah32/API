@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.863);
+}
+
+li{
+  color:rgb(64, 151, 173);
+  font-size: 20px;
+  font-style: italic;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+   'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+  
